@@ -11,7 +11,7 @@ Bubble bath
 Razor
 Weeds
 Peas
-Globe
+globe 
 Crown
 Watch
 )
