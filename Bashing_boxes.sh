@@ -4,16 +4,16 @@
 
 # Initialize array with 10 items
 items=(
-"https://52prompts.com/random-object-generator/ #1"
-"https://52prompts.com/random-object-generator/ #2"
-"https://52prompts.com/random-object-generator/ #3"
-"https://52prompts.com/random-object-generator/ #4"
-"https://52prompts.com/random-object-generator/ #5"
-"https://52prompts.com/random-object-generator/ #6"
-"https://52prompts.com/random-object-generator/ #7"
-"https://52prompts.com/random-object-generator/ #8"
-"https://52prompts.com/random-object-generator/ #9"
-"https://52prompts.com/random-object-generator/ #10"
+Pipe
+Bubbles
+Seatbelt
+Bubble bath
+Razor
+Weeds
+Peas
+Globe
+Crown
+Watch
 )
 
 # Functions for menu options
